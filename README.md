@@ -10,7 +10,7 @@ A simple Bash script to track system health for the DevOps Capstone Project.
 
 ## How to run it
 ```bash
-chmod +x system-monitoring-script.sh
-./system-monitoring-script.sh
+chmod +x system_monitor.sh
+./system_monitor.sh
 ```
 
